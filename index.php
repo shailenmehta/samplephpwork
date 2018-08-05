@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Hi How Are You ? </h1>
+<h1>Now Rejected</h1>
 
 <?php
 echo "version :Rev Ver";
